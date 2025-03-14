@@ -1,7 +1,7 @@
 # 🚦 Two-Way Traffic System (Multisim Design)
 
 ## 📌 Overview
-This project implements a **two-way traffic signal control system** using **logic gates** and **D flip-flops** in **Multisim**. The design simulates a traffic signal controlling two roads at an intersection, ensuring smooth traffic flow through alternating red, yellow, and green signals.
+This project is a **Digital Logic Design** implementation of a **two-way traffic signal control system** using **logic gates** and **D flip-flops** in **Multisim**. The design simulates a traffic signal controlling two roads at an intersection, ensuring smooth traffic flow through alternating red, yellow, and green signals.
 
 ## 🎯 Objective
 The goal is to design a **traffic signal system** using **combinational logic circuits** and **flip-flops** to regulate traffic flow efficiently at an intersection.
